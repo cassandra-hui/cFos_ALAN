@@ -28,10 +28,12 @@ ncl_zenk_by_group <- cfos_df %>%
   group_by(group) %>%
   summarise(
     mean_ZENK = mean(ZENK_percent, na.rm = TRUE),
-    se_ZENK = sd(ZENK_percent, na.rm = TRUE) / sqrt(sum(!is.na(ZENK_percent)))
+    se_ZENK = sd(ZENK_percent, na.rm = TRUE) / sqrt(sum(!is.na(ZENK_percent))),
+    n = n()
   )
 
 ncl_zenk_by_group
 
+write_csv(ncl_zenk_by_group, file = "Zenk_NCL.csv")
 
  
