@@ -1,0 +1,53 @@
+bird,treatment,behavior,time,total,percent
+2,ALAN,Feeding,0,30,0
+2,ALAN,Grooming,0,30,0
+2,ALAN,Hoping,0,30,0
+2,ALAN,Inactive,30,30,100
+3,ALAN,Feeding,0,30,0
+3,ALAN,Grooming,0,30,0
+3,ALAN,Hoping,0.82,30,2.7
+3,ALAN,Inactive,29.18,30,97.3
+4,control day,Feeding,7.42,30,24.7
+4,control day,Grooming,2.45,30,8.2
+4,control day,Hoping,9.83,30,32.8
+4,control day,Inactive,10.3,30,34.3
+6,control day,Feeding,7.01,30,23.4
+6,control day,Grooming,0,30,0
+6,control day,Hoping,16,30,53.3
+6,control day,Inactive,6.98,30,23.3
+13,control night,Feeding,0,30,0
+13,control night,Grooming,0,30,0
+13,control night,Hoping,0,30,0
+13,control night,Inactive,30,30,100
+14,ALAN,Feeding,0,30,0
+14,ALAN,Grooming,0,30,0
+14,ALAN,Hoping,17.25,30,57.5
+14,ALAN,Inactive,12.75,30,42.5
+15,ALAN,Feeding,0,30,0
+15,ALAN,Grooming,0.12,30,0.4
+15,ALAN,Hoping,14.25,30,47.5
+15,ALAN,Inactive,15,30,50
+16,control day,Feeding,1.17,30,3.9
+16,control day,Grooming,3.5,30,11.7
+16,control day,Hoping,1.62,30,5.4
+16,control day,Inactive,23,30,76.7
+18,control night,Feeding,0,30,0
+18,control night,Grooming,0,30,0
+18,control night,Hoping,0,30,0
+18,control night,Inactive,30,30,100
+20,ALAN,Feeding,0,30,0
+20,ALAN,Grooming,0,30,0
+20,ALAN,Hoping,30,30,100
+20,ALAN,Inactive,0,30,0
+21,control night,Feeding,0,30,0
+21,control night,Grooming,0,30,0
+21,control night,Hoping,0,30,0
+21,control night,Inactive,30,30,100
+22,control night,Feeding,0,30,0
+22,control night,Grooming,0,30,0
+22,control night,Hoping,0,30,0
+22,control night,Inactive,30,30,100
+24,control day,Feeding,2.43,30,8.1
+24,control day,Grooming,8.48,30,28.3
+24,control day,Hoping,8.47,30,28.2
+24,control day,Inactive,10.62,30,35.4
